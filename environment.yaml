@@ -1,0 +1,23 @@
+name: base
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - python=3.12
+  - conda==25.1.1
+  - setuptools
+  - pip
+  - wheel
+  - conda-anaconda-telemetry
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - python.app
+  - anaconda-anon-usage
+  - jupyterlab
+  - jupyter-book
+  - jupyterlab-git
+  - jupyterlab-spellchecker
+  - nb_conda_kernels
+prefix: /opt/miniconda3
