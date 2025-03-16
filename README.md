@@ -1,1 +1,3 @@
-Jupyterlab practice for Assignment 7 in the DS Toolbox Course
+# Data Project for Assignment 7 of the DS Toolbox Course
+
+This repository contains practice files created to test the markdown and code features of JupyterLab. This project contains two screenshots - one including a mathematical formula, and one including a demonstration of writing python code in markdown format and exporting a JupyterLab notebook to html. The exported html file is also included in this repository. 
